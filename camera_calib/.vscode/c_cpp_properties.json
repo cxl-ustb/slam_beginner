@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/compiler/cpp_third/eigen3/eigen3"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            // "compilerPath": "C:/compiler/cpp/mingw64x86_64-7.3.0-release-posix-seh-rt_v5-rev0/mingw64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
